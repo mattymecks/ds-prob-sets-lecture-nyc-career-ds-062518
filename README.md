@@ -1,8 +1,9 @@
 # prob-sets-lecture
 
-- Intersection of two sets
+- Introduction to a set
 - Universal Set 
 - Subset of another set
+- Intersection of two sets
 - Union of Two sets 
 - Complement of a set
 - Inclusion Exclusion principle
